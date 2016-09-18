@@ -63,8 +63,8 @@ decode_results results;
 // #define POWER_KEY   Keyboard.write(115);  // ASCII for s, shutdown menu
 #define MUTE_KEY     Keyboard.write(KEY_F8);  // F8 ?
 // #define VOLUP_KEY    Keyboard.press(KEY_LEFT_SHIFT); Keyboard.write('1'); Keyboard.release(KEY_LEFT_SHIFT);  // mee for +
-#define VOLUP_KEY    Keyboard.write('1'); // mee for +
-#define VOLDOWN_KEY  Keyboard.write('2'); // mee for -
+#define VOLUP_KEY    Keyboard.write(KEY_F10); // mee for +
+#define VOLDOWN_KEY  Keyboard.write(KEY_F9); // mee for -
 #define MENU_KEY     Keyboard.write(109); // ASCII for m
 #define INFO_KEY     Keyboard.write(105); // ASCII for i
 
