@@ -7,8 +7,8 @@
  * OpenELEC / kodi - shortcuts
  * play/pause      - space
  * mute            - F8
- * volume +        - +
- * volume -        - -
+ * volume +        - F10
+ * volume -        - F9
  * menu            - m
  * info            - i
  * vorlauf         - f
